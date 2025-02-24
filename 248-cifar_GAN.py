@@ -4,9 +4,7 @@
 GAN: cifar10 data set
 Following code trains and generates images based on the cifar10 dataset.
 
-I've adapted the code by Jason Brownlee from his blogs on https://machinelearningmastery.com/
-I seriously urge everyone to follow his blogs and get enlightened. 
-Original credit goes to Jason. 
+ 
 
 Regular GAN that generates images using a random latent vector as input.
 While it works great we do not know the mapping of latent vector to the generated image.
